@@ -112,13 +112,19 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+### Contributors
+
+- [@mrblackx](https://github.com/mrblackx) - Initial project setup and core features
+- [@NirajanMahara](https://github.com/NirajanMahara) - Feature enhancements and improvements
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
+## 👥 Authors
 
-- GitHub: [@mrblackx](https://github.com/mrblackx)
+- [@mrblackx](https://github.com/mrblackx) - Project creator and lead developer
+- [@NirajanMahara](https://github.com/NirajanMahara) - Co-developer and contributor
 
 ## 🙏 Acknowledgments
 
